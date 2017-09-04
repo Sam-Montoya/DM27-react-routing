@@ -5,8 +5,8 @@ This is a list of topics that will be covered in today's lecture.
 - HashHistory vs BrowserHistory
 
 ## Route
-- path
-- Exact
+- path='/' url path for the component
+- Exact - 
 - Component
 - Render
   - Nested routes with props.children
